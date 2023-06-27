@@ -10,7 +10,7 @@ DESCRIPTION:-
 
 1) This dataset has been downloaded from kaggle
 
-2) The dataset intially contained 1251 rows and 15 columns
+2) The dataset intially contained 11251 rows and 15 columns
 
 APPROACH/OBJECTIVE:-
 
